@@ -2,3 +2,8 @@
 {"level":"info","message":"::ffff:127.0.0.1 - - [20/Oct/2021:09:26:01 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36\"\n","timestamp":"2021-10-20T09:26:01.921Z"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [20/Oct/2021:09:26:02 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36\"\n","timestamp":"2021-10-20T09:26:02.735Z"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [20/Oct/2021:09:26:03 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36\"\n","timestamp":"2021-10-20T09:26:03.232Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [20/Oct/2021:10:25:45 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36\"\n","timestamp":"2021-10-20T10:25:45.153Z"}
+{"level":"info","message":"::1 - - [20/Oct/2021:10:26:29 +0000] \"GET / HTTP/1.1\" 200 21 \"-\" \"PostmanRuntime/7.28.4\"\n","timestamp":"2021-10-20T10:26:29.834Z"}
+{"level":"info","message":"::1 - - [20/Oct/2021:10:29:34 +0000] \"GET /movies HTTP/1.1\" 200 119 \"-\" \"PostmanRuntime/7.28.4\"\n","timestamp":"2021-10-20T10:29:34.046Z"}
+{"level":"info","message":"::1 - - [20/Oct/2021:10:30:17 +0000] \"GET / HTTP/1.1\" 200 21 \"-\" \"PostmanRuntime/7.28.4\"\n","timestamp":"2021-10-20T10:30:17.748Z"}
+{"level":"info","message":"::1 - - [20/Oct/2021:10:37:07 +0000] \"GET /movies/2 HTTP/1.1\" 200 25 \"-\" \"PostmanRuntime/7.28.4\"\n","timestamp":"2021-10-20T10:37:07.258Z"}
